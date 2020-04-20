@@ -29,28 +29,46 @@
         </CENTER>
         <div id="principal">
            <header>
-            <img src="informatica.jpg">
+            
               <div id"logo"
               
              <font color="black"></font> <p>ASPECTOS IMPORTANTES DE LA INFORMATICA:     aprendiendo conceptos de la informatica.  La informática es una de las ciencias con más aporte al mundo tecnologico, también se puede atribuir como el conjunto de conocimientos los cuales asignan un tratamiento específico a la información por medio de las computadoras.   El computador es un artefacto o elemento electronico utiluzado para el procesamiento de información</font>
              </p>
               <nav>
                 <ul>
-                    <li><a href="">Enlace</a></li>
+                
 
                 </ul>
               </nav>
             </header>
 
-            <img src="importancia-informatica.jpg">
-            
+          <center><img src="informatica.jpg" height="200" width="200"></center>
+
+               
         </div>
         
 
     </body>
 
-</html >
 
+    <justify><font color="black"></font></justify> <p> La ciencia de la informática (popularmente llamada como computación) se divide en diversas ramas como la programación, la arquitectura de redes y computadoras, electricidad y electrónica, inteligencia artificial (entre otras).  La informática tiene dos áreas de desarrollo, el software (los programas) y el hardware (los productos que complementan). Algunas carreras se orientan al desarrollo de software, como la ingeniería en sistemas, y otras carreras hacen más bien mantenimiento, como algunas tecnicaturas. Claramente, la rama que más se amplía es la de la programación que día a día cambia y evoluciona.
+
+    
+    </p>
+
+    <font color="black"><center> ¿PARA QUE SE UTILIZA LA INFORMÁTICA?</center> </font>
+
+    <p> El principal objetivo de la informática consta de automatizar mediante equipos (mayormente electrónicos) todo tipo de información con el fin de evitar la repetición de tareas complejas en las que se pueda cometer errores al reducir el tiempo de ejecución de las mismas. La automatización de la informática se compone de la elaboración de tres tareas básicas. En primer lugar, debe ocurrir una entrada de información (captación de la información digital); en segundo lugar, existe un proceso o tratamiento de la información ingresada previamente y; por último, se da una salida de la información (transmisión de resultados binarios).
+
+    La automatización de la informática se compone de la elaboración de tres tareas básicas. En primer lugar, debe ocurrir una entrada de información (captación de la información digital); en segundo lugar, existe un proceso o tratamiento de la información ingresada previamente y; por último, se da una salida de la información (transmisión de resultados binarios).
+    
+    </p>
+
+    <center><img src="importancia.jpg" height="200" widht="100"></center>
+
+     <li><a href="">Enlace</a></li>
+
+</html >
 
 
 
